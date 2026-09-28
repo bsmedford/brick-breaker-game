@@ -271,5 +271,5 @@ function gameLoop() {
 }
 
 // Initialize and start game
-create Bricks();
+createBricks();
 gameLoop();
